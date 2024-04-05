@@ -1,0 +1,16 @@
+@keyframes fadein{
+from{
+    opacity:0;
+
+}
+
+
+to{
+opacity:100;
+    
+}
+}
+.beach{
+animation-name:fadein ;
+animation-duration: 7s;
+}
